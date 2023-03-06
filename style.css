@@ -1,0 +1,8 @@
+.wraper {
+    padding: 50px;
+    height: 400px;
+    width: 200px;
+    border-radius: 20px;
+	background-color: rgb(128, 64, 48);
+    text-align: center;
+}
